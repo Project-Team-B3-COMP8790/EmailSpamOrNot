@@ -15,6 +15,12 @@
 - The best recall was for MNB equal to 100%, which refers to the percentage of total relevant results correctly classified by the model.
 - BART has been identified as the best classifier in differentiating between spam and non-spam emails, considering F_score, precision, and accuracy
 
+![ROC Areaa Curve](ROC.png)
+- As shown in this figure, the area under ROC curve for  BART is bigger the other two models. Therefore, it reveals that it is the best model at distinguishing spam emails
+- To conduct time analysis, we have studied the run time of each classifier. MNB had the minimum average run time of 43 seconds. After that, AdaBoost and BART are on the following levels with 1:42 seconds and 3:37 seconds, respectively
+
+
+
 ## How to run ?
 
 ```git clone https://github.com/Project-Team-B3-COMP8790/EmailSpamOrNot```
