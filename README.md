@@ -27,6 +27,12 @@
 
 GitHub Link --- https://github.com/Project-Team-B3-COMP8790/EmailSpamOrNot
 
+Define the correct path for the dataset
+
+run the cell in jupyte notebook or colaboaratory
+
+The results will be displayed in, output screen of the cell
+
 ## Presentation Video
 
 [![Presentation](https://img.youtube.com/vi/W3Jw82xNQDw/0.jpg)](https://www.youtube.com/watch?v=W3Jw82xNQDw)
